@@ -20,13 +20,4 @@ Explore a variety of delicious coffee flavors like Macchiato, Mocha, Latte, and 
   Easily find coffee types by roast level, flavor notes, origin, or brew method.
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- Node.js (v16 or above)
-- npm or yarn
-- Git
 
